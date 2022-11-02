@@ -73,13 +73,7 @@ h1 {
     font-weight: bolder;
 }
 /* Container */
-.container {
-    max-width: 70vw;
-    margin: auto;
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: (1, 1fr);
-}
+
 /* Footer */
 footer {
     margin-top: 40px;
